@@ -1,0 +1,4 @@
+/opt/Geant4/share/Geant4-10.7.2/geant4make/sim/tutorial_5/build/CMakeFiles/rebuild_cache.dir
+/opt/Geant4/share/Geant4-10.7.2/geant4make/sim/tutorial_5/build/CMakeFiles/edit_cache.dir
+/opt/Geant4/share/Geant4-10.7.2/geant4make/sim/tutorial_5/build/CMakeFiles/sim.dir
+/opt/Geant4/share/Geant4-10.7.2/geant4make/sim/tutorial_5/build/CMakeFiles/Simulation.dir
