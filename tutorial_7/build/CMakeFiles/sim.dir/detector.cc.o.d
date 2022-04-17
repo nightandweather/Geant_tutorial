@@ -1,6 +1,6 @@
 CMakeFiles/sim.dir/detector.cc.o: \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/detector.cc \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/detector.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/detector.cc \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/detector.hh \
   /usr/local/include/Geant4/G4VSensitiveDetector.hh \
   /usr/local/include/Geant4/G4VHit.hh \
   /usr/local/include/Geant4/globals.hh \

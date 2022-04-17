@@ -19,8 +19,9 @@ public:
    
     virtual G4VPhysicalVolume *Construct();
 private:
+
     G4LogicalVolume *logicDetector;
-    virtual void ConstructSDandField();
+    virtual void ConstructSDandField(); //Sensitive detector build
 
 };
 

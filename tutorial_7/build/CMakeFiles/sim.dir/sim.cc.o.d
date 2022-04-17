@@ -1,5 +1,5 @@
 CMakeFiles/sim.dir/sim.cc.o: \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/sim.cc \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/sim.cc \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config_site \
@@ -798,7 +798,7 @@ CMakeFiles/sim.dir/sim.cc.o: \
   /usr/local/include/Geant4/G4MaterialCutsCouple.hh \
   /usr/local/include/Geant4/G4ProductionCuts.hh \
   /usr/local/include/Geant4/G4MCCIndexConversionTable.hh \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/construction.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/construction.hh \
   /usr/local/include/Geant4/G4VUserDetectorConstruction.hh \
   /usr/local/include/Geant4/G4Box.hh \
   /usr/local/include/Geant4/G4GeomTypes.hh \
@@ -819,13 +819,13 @@ CMakeFiles/sim.dir/sim.cc.o: \
   /usr/local/include/Geant4/G4ICRU90StoppingData.hh \
   /usr/local/include/Geant4/G4Pow.hh \
   /usr/local/include/Geant4/G4SystemOfUnits.hh \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/detector.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/detector.hh \
   /usr/local/include/Geant4/G4VSensitiveDetector.hh \
   /usr/local/include/Geant4/G4VReadOutGeometry.hh \
   /usr/local/include/Geant4/G4SensitiveVolumeList.hh \
   /usr/local/include/Geant4/G4CollectionNameVector.hh \
   /usr/local/include/Geant4/G4VSDFilter.hh \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/physics.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/physics.hh \
   /usr/local/include/Geant4/G4EmStandardPhysics.hh \
   /usr/local/include/Geant4/G4OpticalPhysics.hh \
   /usr/local/include/Geant4/G4OpticalParameters.hh \
@@ -835,9 +835,9 @@ CMakeFiles/sim.dir/sim.cc.o: \
   /usr/local/include/Geant4/G4VRestDiscreteProcess.hh \
   /usr/local/include/Geant4/G4ParticleChangeForDecay.hh \
   /usr/local/include/Geant4/G4DecayProcessType.hh \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/action.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/action.hh \
   /usr/local/include/Geant4/G4VUserActionInitialization.hh \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/generator.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/generator.hh \
   /usr/local/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
   /usr/local/include/Geant4/G4ParticleGun.hh \
   /usr/local/include/Geant4/G4VPrimaryGenerator.hh \

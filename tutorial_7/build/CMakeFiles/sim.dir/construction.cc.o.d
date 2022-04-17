@@ -1,6 +1,6 @@
 CMakeFiles/sim.dir/construction.cc.o: \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/construction.cc \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/construction.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/construction.cc \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/construction.hh \
   /usr/local/include/Geant4/G4VUserDetectorConstruction.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/c++/v1/__config \
@@ -534,7 +534,7 @@ CMakeFiles/sim.dir/construction.cc.o: \
   /usr/local/include/Geant4/G4ICRU90StoppingData.hh \
   /usr/local/include/Geant4/G4Pow.hh \
   /usr/local/include/Geant4/G4SystemOfUnits.hh \
-  /Users/iganghun/Documents/GitHub/Geant_tutorial/sim/tutorial_7/detector.hh \
+  /Users/iganghun/Documents/Github/Geant_tutorial/sim/tutorial_7/detector.hh \
   /usr/local/include/Geant4/G4VSensitiveDetector.hh \
   /usr/local/include/Geant4/G4VHit.hh \
   /usr/local/include/Geant4/G4Step.hh \
