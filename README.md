@@ -1,6 +1,6 @@
 # Geant_tutorial
 
-## This repository is a repository where you organize and study by watching the video called 'Giant4 tutorial' by Physics Matters.
+## This repository is where you organize and study by watching the video called 'Giant4 tutorial' by Physics Matters.
 
 ## tutorial_1
 
